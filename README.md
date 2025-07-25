@@ -57,7 +57,7 @@
 | 🖥️ Virtual Internship | Prodigy Infotech | 2024 |
 | 🔌 Programming in Java | NPTEL | 2023 |
 | 🌐 Introduction to IoT | NPTEL | 2023 |
-| 📊 Power BI Basics | [Add Platform] | 2023 |
+| 📊 Power BI Basics | Skill Course | 2023 |
 
 </div>
 
@@ -74,10 +74,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-kmr&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikas-kmr&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?/>
   <br/><br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikas-kmr&theme=react-dark&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?/>
 </p>
 
 ---
@@ -99,10 +99,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail/>
   </a>
-  <a href="https://github.com/vikas-kmr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vikas--kmr-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/vikasyadav068" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub/>
   </a>
 </p>
 
