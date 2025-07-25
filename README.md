@@ -1,14 +1,20 @@
-<!-- Top Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Kumar;Final+Year+CSE+Student;Android+%2F+Web+Developer;Tech+Explorer+%7C+Quick+Learner;Open+to+Internships+and+SDE+Roles" alt="Typing SVG" />
+</p>
+
+<!-- 3D Coding Image -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b78b8307c9851d117cc6f.gif" width="500" />
 </p>
 
 ---
 
 <h2 align="center">🚀 Projects | 🌱 Learning | 🏆 Achievements | 📜 Certifications</h2>
 
+<!-- Coder Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKFNrLkPpJWP7kk/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -27,90 +33,40 @@
 
 ### 🧠 Key Projects
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech</th>
-    </tr>
-    <tr>
-      <td>🚜 <b>Krishika</b></td>
-      <td>E-commerce for farmers, disease detection & market insights</td>
-      <td>Android, Firebase, ML</td>
-    </tr>
-    <tr>
-      <td>🦟 <b>Anti-Mosquito App</b></td>
-      <td>Uses high-frequency audio to repel mosquitoes</td>
-      <td>Java, Android</td>
-    </tr>
-    <tr>
-      <td>🧑‍🎓 <b>Face Attendance System</b></td>
-      <td>Auto attendance with face recognition + Cloudinary</td>
-      <td>Java, Firebase, Cloudinary</td>
-    </tr>
-    <tr>
-      <td>🪞 <b>AI Smart Mirror</b></td>
-      <td>Displays health info, voice commands, personalized feed</td>
-      <td>IoT, JS, API</td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+
+| 🚀 Project Name | 🔍 Description | 🧰 Tech Stack |
+|----------------|----------------|---------------|
+| 🚜 **Krishika** | E-commerce for farmers, disease detection & market insights | Android, Firebase, ML |
+| 🦟 **Anti-Mosquito App** | Uses high-frequency audio to repel mosquitoes | Java, Android |
+| 🧑‍🎓 **Face Attendance System** | Auto attendance with face recognition + Cloudinary | Java, Firebase, Cloudinary |
+| 🪞 **AI Smart Mirror** | Displays health info, voice commands, personalized feed | IoT, JS, API |
+
+</div>
 
 ---
 
 ### 📜 Certifications
 
-<p align="center">
-  <table>
-    <tr>
-      <th>Title</th>
-      <th>Platform</th>
-      <th>Year</th>
-    </tr>
-    <tr>
-      <td>🧑‍💻 Android Development Internship</td>
-      <td>Internship Studio</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🌐 Full Stack Web Development</td>
-      <td>Internshala</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🖥️ Virtual Internship</td>
-      <td>Prodigy Infotech</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>🔌 Programming in Java</td>
-      <td>NPTEL</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>🌐 Introduction to IoT</td>
-      <td>NPTEL</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>📊 Power BI Basics</td>
-      <td>[Add Platform]</td>
-      <td>2023</td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
-</p>
+| 🏆 Title | 🏫 Platform | 📅 Year |
+|---------|------------|---------|
+| 🧑‍💻 Android Development Internship | Internship Studio | 2024 |
+| 🌐 Full Stack Web Development | Internshala | 2024 |
+| 🖥️ Virtual Internship | Prodigy Infotech | 2024 |
+| 🔌 Programming in Java | NPTEL | 2023 |
+| 🌐 Introduction to IoT | NPTEL | 2023 |
+| 📊 Power BI Basics | [Add Platform] | 2023 |
+
+</div>
 
 ---
 
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,html,css,js,mongodb,express,react,nodejs,spring,git,github,powershell,linux" />
+  <img src="https://skillicons.dev/icons?i=java,firebase,androidstudio,html,css,js,mongodb,express,react,nodejs,spring,git,github,vscode,linux" />
 </p>
 
 ---
@@ -142,6 +98,9 @@
   <a href="https://www.linkedin.com/in/vikas-kumar-2b695a276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/vikas-kmr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-vikas--kmr-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -149,6 +108,7 @@
 
 ---
 
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 </p>
