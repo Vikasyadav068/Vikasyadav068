@@ -8,7 +8,7 @@
 <h2 align="center">🚀 Projects | 🌱 Learning | 🏆 Achievements | 📜 Certifications</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKFNrLkPpJWP7kk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKFNrLkPpJWP7kk/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -27,25 +27,79 @@
 
 ### 🧠 Key Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🚜 **Krishika** | E-commerce for farmers, disease detection & market insights | Android, Firebase, ML |
-| 🦟 **Anti-Mosquito App** | Uses high-frequency audio to repel mosquitoes | Java, Android |
-| 🧑‍🎓 **Face Attendance System** | Auto attendance with face recognition + Cloudinary | Java, Firebase, Cloudinary |
-| 🪞 **AI Smart Mirror** | Displays health info, voice commands, personalized feed | IoT, JS, API |
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech</th>
+    </tr>
+    <tr>
+      <td>🚜 <b>Krishika</b></td>
+      <td>E-commerce for farmers, disease detection & market insights</td>
+      <td>Android, Firebase, ML</td>
+    </tr>
+    <tr>
+      <td>🦟 <b>Anti-Mosquito App</b></td>
+      <td>Uses high-frequency audio to repel mosquitoes</td>
+      <td>Java, Android</td>
+    </tr>
+    <tr>
+      <td>🧑‍🎓 <b>Face Attendance System</b></td>
+      <td>Auto attendance with face recognition + Cloudinary</td>
+      <td>Java, Firebase, Cloudinary</td>
+    </tr>
+    <tr>
+      <td>🪞 <b>AI Smart Mirror</b></td>
+      <td>Displays health info, voice commands, personalized feed</td>
+      <td>IoT, JS, API</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ### 📜 Certifications
 
-| Title | Platform | Year |
-|-------|----------|------|
-| 🧑‍💻 Android Development Internship | Internship Studio | 2024 |
-| 🌐 Full Stack Web Development | Internshala | 2024 |
-| 🖥️ Virtual Internship | Prodigy Infotech | 2024 |
-| 🔌 **Programming in Java** | NPTEL | 2023 |
-| 🌐 **Introduction to IoT** | NPTEL | 2023 |
-| 📊 Power BI Basics | [Add Platform] | 2023 |
+<p align="center">
+  <table>
+    <tr>
+      <th>Title</th>
+      <th>Platform</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td>🧑‍💻 Android Development Internship</td>
+      <td>Internship Studio</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>🌐 Full Stack Web Development</td>
+      <td>Internshala</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>🖥️ Virtual Internship</td>
+      <td>Prodigy Infotech</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>🔌 Programming in Java</td>
+      <td>NPTEL</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>🌐 Introduction to IoT</td>
+      <td>NPTEL</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>📊 Power BI Basics</td>
+      <td>[Add Platform]</td>
+      <td>2023</td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
@@ -87,9 +141,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vikas-kumar-2b695a276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/vikas-kmr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-vikas--kmr-171515?style=for-the-badge&logo=github&logoColor=white" />
