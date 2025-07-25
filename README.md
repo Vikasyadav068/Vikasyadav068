@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Kumar;Final+Year+CSE+Student;Android+%2F+Web+Developer;Open+to+Internships+and+SDE+Roles" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8b/02/f0/8b02f03e4396585363e45b3bfb7f9d62.gif" width="400px"/>
+</div>
+
 ---
 
 ### 🙋‍♂️ About Me
@@ -26,8 +30,8 @@
 
 ### 📜 Certifications
 
-- 🧑‍💻 Android App Development Internship – Internship Studio  
-- 🌐 Full Stack Web Development – Internshala  
+- 📱 Android App Development – Internship Studio  
+- 💻 Full Stack Web Development – Internshala  
 - 🖥️ Virtual Internship – Prodigy Infotech  
 - ☕ **Programming in Java** – NPTEL  
 - 🌐 **Introduction to IoT** – NPTEL
@@ -55,8 +59,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-kmr&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikas-kmr&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-kmr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikas-kmr&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -74,3 +78,9 @@
     <img src="https://img.shields.io/badge/GitHub-vikas--kmr-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="600px"/>
+</div>
