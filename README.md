@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚀 Projects | 🌱 Learning | 🏆 Achievements | 📜 Certifications</h2>
+<h1 align="center">🚀 Projects | 🌱 Learning | 🏆 Achievements | 📜 Certifications</h1>
 
 <!-- Coder Animation -->
 <p align="center">
