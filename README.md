@@ -21,7 +21,7 @@
 
 ### 🙋‍♂️ About Me
 - 👨‍🎓 Final Year B.Tech CSE Student from **Mirzapur, Uttar Pradesh**
-- 📚 Studied at **Bal Bharti School**, Mirzapur  
+- 📚 Studied at **Bal Bharti School**, Prayagraj  
   - 🏆 **10th: 88%** (CBSE)  
   - 🏆 **12th: 80%** (CBSE)
 - 💻 Passionate about **Android App Dev, Firebase, Web Dev**
